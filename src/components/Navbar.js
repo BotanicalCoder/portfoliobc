@@ -75,7 +75,7 @@ const MyNav = styled.nav`
     color: black;
   }
   .logo {
-    padding-right: 6em;
+    padding-right: 5em;
   }
   #icon {
     font-weight: bolder;
@@ -87,8 +87,12 @@ const MyNav = styled.nav`
     .hlist {
       display: none;
     }
+    .logo {
+      padding-right: 0em;
+    }
   }
   @media screen and (min-width: 450px) {
+
     .hlist {
       display: inline-block;
     }

@@ -18,7 +18,7 @@ const Banner = () => {
 };
 
 const MyArticle = styled.article`
-  height: 90vh;
+  height: 100vh;
   background-color: #ffbaba;
   margin-top: -1.1em;
   margin-left: -2em;

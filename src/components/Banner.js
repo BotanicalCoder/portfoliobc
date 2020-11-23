@@ -47,7 +47,8 @@ const MyArticle = styled.article`
   }
 
   .animagous {
-    animation: type 5s steps(42);
+    margin-top:-2.5em;
+    animation: type 4s steps(42);
     animation-timing-fuction: ease-in-out;
     overflow: hidden;
     white-space: nowrap;

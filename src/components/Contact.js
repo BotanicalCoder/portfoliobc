@@ -1,12 +1,12 @@
 import React from "react";
-import { FaTwitter } from "react-icons/fa";
+import { FaTwitter, FaGithub } from "react-icons/fa";
 import styled from "styled-components";
 
 import Title from "./Title";
 
 const Contact = () => {
   return (
-    <Ctcsection id='contact'>
+    <Ctcsection id="contact">
       <Title title="CONTACT ME"></Title>
       <p>PHONE NO: +23481445053272</p>
       <hr />
@@ -15,6 +15,11 @@ const Contact = () => {
       <p>
         Twitter <FaTwitter /> : Botanicalcoder
       </p>
+      <p>
+        Github <FaGithub /> :{" "}
+        <a href="https://github.com/botanicalcoder"> BotanicalCoder</a>
+      </p>
+      <hr/>
     </Ctcsection>
   );
 };

@@ -19,7 +19,6 @@
   * HTML
   * CSS
   * Javacript
-  * emailjs
   * styled-components - version 5.1.1
 
 ## Setup

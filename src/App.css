@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  padding: 0em;
+}
+
+body {
+  margin: 0em;
+  color: rgba(255, 255, 255, 0) 41;
+  line-height: 2;
+  padding: 0em;
+  overflow-y:scroll ;
+  overflow-x: hidden;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* #root{
+  padding: 0em;
+  margin:0em;
+  max-width: 100vw;
+} */
+
+#portfolio {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
+
+/*
+maincolor: #ff0000
+seccolor:#ffbaba
+
+headecolor,navbar-bg: #a70000
+*/

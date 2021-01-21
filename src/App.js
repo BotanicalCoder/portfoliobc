@@ -12,7 +12,6 @@ function App() {
   return (
     <React.Fragment>
       <Navbar />
-
       <Banner />
       <PortfolioContainer />
       <About />

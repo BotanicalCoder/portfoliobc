@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   box-sizing: border-box;
   padding: 0em;
@@ -32,3 +33,21 @@ seccolor:#ffbaba
 
 headecolor,navbar-bg: #a70000
 */
+=======
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 2em;
+  color: rgba(255, 255, 255, 0) 41;
+  max-width: 100%;
+  line-height: 1.6;
+  
+}
+/*
+maincolor: #ff0000
+seccolor:#ffbaba
+
+headecolor,navbar-bg: #a70000
+*/
+>>>>>>> 2836a30fa16c1a883ccfb48b4351460764aace2d

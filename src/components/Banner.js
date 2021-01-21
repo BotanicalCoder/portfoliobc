@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from "react";
 import Title from "./Title";
 import styled from "styled-components";
@@ -11,7 +11,7 @@ const Banner = () => {
         <img src={Myimg} alt="botanicalcoder" className="img" />
       </div>
       <div className="animagous">
-        <Title title="The BOTANICAL ~ CODER" />
+        <Title title="THE BOTANICAL ~ CODER" />
         <h6>Web Developer</h6>
       </div>
       <div id="portfolio"></div>
@@ -200,4 +200,4 @@ const MyArticle = styled.article`
 `;
 
 export default Banner;
->>>>>>> 2836a30fa16c1a883ccfb48b4351460764aace2d
+

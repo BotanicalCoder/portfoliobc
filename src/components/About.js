@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from "react";
 import styled from "styled-components";
 
@@ -102,4 +102,4 @@ const Abtsection = styled.section`
 `;
 
 export default About;
->>>>>>> 2836a30fa16c1a883ccfb48b4351460764aace2d
+

@@ -101,7 +101,7 @@ const MyArticle = styled.article`
 `;
 
 export default Banner;
-=======
+
 import React from "react";
 import Title from "./Title";
 import styled from "styled-components";

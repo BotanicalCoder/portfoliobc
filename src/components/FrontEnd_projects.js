@@ -71,22 +71,7 @@ const FrontendProjects = () => {
           </h4>
         </article>
 
-        <article className="work">
-          <h2>Innotech</h2>
-          <p className="work-text">
-            A website built to facilitate the fassa innotech event.
-            <br /> Built using <em>Angular</em>{" "}
-          </p>
-          <div className="langs">
-            <p>
-              {" "}
-              <a href="https://github.com/BotanicalCoder/innotech">Github</a>
-            </p>{" "}
-          </div>
-          <h4>
-            <a href="https://innotechbc.netlify.app/">Live demo</a>
-          </h4>
-        </article>
+        
       </Mysection>
     </div>
   );

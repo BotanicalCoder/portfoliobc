@@ -32,7 +32,7 @@ const Navbar = () => {
             <a href="#portfolio">PORTFOLIO</a>{" "}
           </li>
           <li className="navlist">
-            <a href="#blog">BLOG</a>
+            <a href="https://botanicalcodersblog.hashnode.dev/">BLOG</a>
           </li>
           <li className="navlist">
             <a href="#about">ABOUT ME</a>

@@ -10,14 +10,16 @@ const FullStackProjects = () => {
       <Title title="MY FullStack Projects"> </Title>
       <Mysection className="myworks">
         <div className="work">
-          <h2>coming soon</h2>
+          <h2>Instagram clone</h2>
           <p className="work-text">
-            I did this to achieve this using react
-            <br /> so psched to be doing this.
+            I built the frontend using react, bootstrap and vanilla css. 
+           <br/> It was hosted on netlify with github as version control.
+            <br /> The backend was built with Node.js, Express js, and MongoDB.
+            <br/> It was hosted on heroku with github as version control
           </p>
           <div className="langs">
-            <p>languages :</p>
-            <span>Test</span>{" "}
+            <p>tools :</p>
+            <span>NODE.js, EXPRESS, MONGODB, React</span>{" "}
           </div>
           <h4>Live demo</h4>
         </div>

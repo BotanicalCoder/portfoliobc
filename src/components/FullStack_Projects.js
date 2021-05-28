@@ -21,7 +21,7 @@ const FullStackProjects = () => {
             <p>tools :</p>
             <span>NODE.js, EXPRESS, MONGODB, React</span>{" "}
           </div>
-          <h4><a href="https://instgramclonebc.netlify.app">Live demo<a></h4>
+          <h4><a href="https://instgramclonebc.netlify.app">Live demo </a> </h4>
         </div>
 
       </Mysection>
